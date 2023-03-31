@@ -1,0 +1,41 @@
+body{
+    font-family: 'Delicious Handrawn', cursive;
+   background: linear-gradient(blue 0%, green 100%);
+   font-size : 30px;
+}
+.header_div{
+    background: white;
+    color:indigo;
+   
+}
+.header_div p{
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:grey;
+    letter-spacing:2px;
+    font-weight: bold; 
+}
+.header_div h1{
+    letter-spacing:2px;
+    font-weight: bold;
+}
+.main_div button{
+    width: 150px;
+    margin-top:30px;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    letter-spacing: 2px;
+
+}
+.copy_right_footer{
+    bottom:0;
+    position:fixed;
+    color:grey;
+    text-align:center;
+    background-color:white;
+     width:100%;
+     line-height:3;
+     
+     text-shadow:5px 5px 5px grey;
+}
